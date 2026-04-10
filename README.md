@@ -1,19 +1,17 @@
-# My HTML & CSS Portfolio
+# HTML and CSS Projects
 
-This repository contains my HTML and CSS projects.
+This repository contains my course projects using HTML, CSS, and JavaScript.
 
 ## Projects
 
-### Portfolio Website
-- A basic portfolio website created using HTML and CSS
-- Includes sections like About Me and Projects
-- Deployed using GitHub Pages
-
 ### One Page Website
-- Simple HTML webpage project
+A simple one-page site built using HTML and CSS.
 
 ### Bootstrap Project
-- Basic Bootstrap layout project
+A responsive webpage built using Bootstrap.
 
-## Live Website
+### Portfolio Website
+My personal portfolio built using HTML, CSS and JavaScript.
+
+## Live Portfolio
 https://subindasks-ux.github.io/HTML-and-CSS-projects/portfolio/
